@@ -9,10 +9,8 @@ This project builds two of the more involved methods the researchers suggest. Th
 
 The first plot focuses on the relationship between the population mean and a user-provided value. The coloring of each bar conveys the level of certainty a user should have regarding whether the population mean is above or below the given value based on the sample mean and sample variance. The more red the bar is, the more probable that the population mean is above the given y-value, while the more blue the bar, the more probable it is that the mean is below the given y-value. The user can click on the plot to change the y-value and the bars are automatically recolored.
 
-![Image of first plot]
-(https://github.com/henrywoody/Understanding-Uncertainty/blob/master/plot1.png)
+![Image of first plot](https://github.com/henrywoody/Understanding-Uncertainty/blob/master/plot1.png)
 
 The second plot examines the probability that the population mean falls within a range of y-values provided by the user. The user specifies the range and the more deeply red each bar is, the more probable it is that the population mean falls within the range given.
 
-![Image of second plot]
-(https://github.com/henrywoody/Understanding-Uncertainty/blob/master/plot2.png)
+![Image of second plot](https://github.com/henrywoody/Understanding-Uncertainty/blob/master/plot2.png)
