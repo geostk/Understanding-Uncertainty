@@ -1,4 +1,4 @@
-# Understanding-Uncertainty
+# Understanding Uncertainty
 Using interactive plots in Python to help readers make more sense of uncertainty in data samples.
 
 This project follows from the points made in the paper [Sample-oriented task-driven visualizations: allowing users to make better, more confident decisions](https://drive.google.com/file/d/0B7Tj31nhk4BAeFJ1Y1lwQmpMQVk/view) by Ferreira, N., Fisher, D., & Konig, A. C. (2014, April). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 571-580). ACM. [(video)](https://www.youtube.com/watch?v=BI7GAs-va-Q)
